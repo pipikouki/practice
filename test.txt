@@ -2,3 +2,5 @@ ad,vmafmadfcdfc m
 tuika
 web tuika
 ローカル書き換え
+リモート書き換え
+>>>>>>> origin/main
